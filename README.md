@@ -1,2 +1,3 @@
 # Flood-Mapping
 Flood Mapping using SAR datasets
+This repository is designed for Earth observation professionals, GIS experts, and researchers seeking accurate flood mapping capabilities through the utilization of GEE's robust processing capabilities and SAR datasets. The provided code facilitates seamless integration of SAR data, enabling users to conduct flood mapping with precision. Users can easily customize parameters, select SAR data sources, and visualize results, making this repository an invaluable asset for flood monitoring and analysis within the GEE environment. Explore, contribute, and leverage the power of SAR data for effective flood mapping.
